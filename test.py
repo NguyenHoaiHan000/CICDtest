@@ -3,7 +3,7 @@
 def hello_world():
     """
     Hàm để in ra chuỗi 'Hello, world!'
-    
+    """
     print("Hello, world!")
 
 
